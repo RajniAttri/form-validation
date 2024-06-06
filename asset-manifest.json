@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/RajniAttri/form-validation/settings/pages/static/css/main.8fbe06d4.css",
-    "main.js": "/RajniAttri/form-validation/settings/pages/static/js/main.78acad75.js",
-    "static/js/453.9a7010f2.chunk.js": "/RajniAttri/form-validation/settings/pages/static/js/453.9a7010f2.chunk.js",
-    "index.html": "/RajniAttri/form-validation/settings/pages/index.html",
-    "main.8fbe06d4.css.map": "/RajniAttri/form-validation/settings/pages/static/css/main.8fbe06d4.css.map",
-    "main.78acad75.js.map": "/RajniAttri/form-validation/settings/pages/static/js/main.78acad75.js.map",
-    "453.9a7010f2.chunk.js.map": "/RajniAttri/form-validation/settings/pages/static/js/453.9a7010f2.chunk.js.map"
+    "main.css": "/RajniAttri/form-validation.git/static/css/main.8fbe06d4.css",
+    "main.js": "/RajniAttri/form-validation.git/static/js/main.6816dd04.js",
+    "static/js/453.9a7010f2.chunk.js": "/RajniAttri/form-validation.git/static/js/453.9a7010f2.chunk.js",
+    "index.html": "/RajniAttri/form-validation.git/index.html",
+    "main.8fbe06d4.css.map": "/RajniAttri/form-validation.git/static/css/main.8fbe06d4.css.map",
+    "main.6816dd04.js.map": "/RajniAttri/form-validation.git/static/js/main.6816dd04.js.map",
+    "453.9a7010f2.chunk.js.map": "/RajniAttri/form-validation.git/static/js/453.9a7010f2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8fbe06d4.css",
-    "static/js/main.78acad75.js"
+    "static/js/main.6816dd04.js"
   ]
 }
