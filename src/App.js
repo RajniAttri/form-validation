@@ -7,15 +7,12 @@ import Success from './components/Success';
 const App = () => {
   return (
     <>
-
-    <HashRouter>
     <Router>
       <Routes>
         <Route path="/" element={<Form />} />
         <Route path="/success" element={<Success />} />
       </Routes>
     </Router>
-    </HashRouter>
 
     </>
   );
